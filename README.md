@@ -27,11 +27,6 @@ Check out the live site here 👉 [Your Netlify Link](https://your-netlify-link.
 
 ---
 
-## 📸 Screenshots
-
-![Screenshot of Daily Task Tracker](https://your-screenshot-link.png)
-
----
 
 ## ⚙️ How to Use
 
